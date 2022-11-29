@@ -166,11 +166,11 @@
 
 
 ## 핵심 코드
-data-role로 header / content / footer / page 부분으로 나눠줬으며
-header 부분에는 제일 위에 고정으로 나오는 head 부분
-content 부분에서는 제일 처음에 나오는 화면 부분
-footer 부분에서는 제일 밑에 나오는 foor 부분
-page 부분에서는 각 페이지별 div등이 들어가 있다.
+data-role로 header / content / footer / page 부분으로 나눠줬으며 <br>
+header 부분에는 제일 위에 고정으로 나오는 head 부분 <br>
+content 부분에서는 제일 처음에 나오는 화면 부분 <br>
+footer 부분에서는 제일 밑에 나오는 foor 부분 <br>
+page 부분에서는 각 페이지별 div등이 들어가 있다. <br>
 
 그리고 <a>태그를 이용하여 #intro를 하면 page 부분에 intro로 옮겨가는 부분 등을 구현하였다.
 
